@@ -1,3 +1,3 @@
 # testProject
-Test commit - I also decided to change this repo
+Test commit - first programmer change 1
 Changing data
