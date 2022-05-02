@@ -1,3 +1,3 @@
 # testProject
-Test commit
+Test commit - first programmer change 1
 Changing data
